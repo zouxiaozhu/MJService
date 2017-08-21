@@ -1,0 +1,11 @@
+{
+    "name": "zhanglong/file-manage",
+    "description": "文件管理",
+    "authors": [
+        {
+            "name": "张龙",
+            "email": "zhanglong@hoge.cn"
+        }
+    ],
+    "require": {}
+}
